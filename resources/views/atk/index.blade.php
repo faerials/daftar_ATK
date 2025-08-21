@@ -71,7 +71,7 @@
       class="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-black">Search</label>
     <div class="relative">
       <!-- Input -->
-      <input type="search" id="default-search"
+      <input type="text" 
         class="block w-full py-3 px-6 ps-14 text-sm text-black placeholder-white/80 
                border border-white/40 rounded-full 
                bg-white/30 backdrop-blur-md 
